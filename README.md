@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashwinihipparge
 - 👀 I’m interested in hack October 21
-- 🌱 I’m currently learning engineering 3rd year in information technology
+- 🌱 I’m currently Pursuing ngineering 3rd year in information technology
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me in hack October 21
+
 
 <!---
 ashwinihipparge/ashwinihipparge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

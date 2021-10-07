@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwinihipparge
 - 👀 I’m interested in hack October 21
-- 🌱 I’m currently Pursuing ngineering 3rd year in information technology
+- 🌱 I’m currently Pursuing Engineering 3rd year in information technology
 - 💞️ I’m looking to collaborate on coding
 
 
